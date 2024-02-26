@@ -1,2 +1,2 @@
-# Final-Project
-LM35 Project
+# Embedded System Final-Project
+Electric Water Heater by LM35 Sensor Project
